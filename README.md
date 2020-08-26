@@ -31,7 +31,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=elftvxq&layout=compact)](https://github.com/pedes/github-readme-stats)
 <!-- links to social media icons -->
 
-- 📫 How to reach me **emmashih721@hotmail.com**
+📫 How to reach me **emmashih721@hotmail.com**
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
