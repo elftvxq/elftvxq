@@ -5,7 +5,6 @@
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
 - I'm aspiring 🔭️ Front-End Web Developer mainly using 🌱 **ReactJs**.
-- I always like working in 🐧️**Linux** Environment.
 - I'm a knowledge seeker & I love to learn new 💻 **Skills and Technologies**.
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Continuously learning how to make the world better.** 👨‍🎓️️
@@ -32,23 +31,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=elftvxq&layout=compact)](https://github.com/pedes/github-readme-stats)
 <!-- links to social media icons -->
 
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/emma_shih
-[2]: https://www.linkedin.com/in/emma-shih/
-
+- 📫 How to reach me **emmashih721@hotmail.com**
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
