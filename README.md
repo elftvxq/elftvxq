@@ -21,7 +21,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
 ![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
 ![Webpack](https://img.shields.io/badge/-Webpack-critical?style=for-the-badge&logo=webpack)
 ![Docker](https://img.shields.io/badge/-Docker-9cf?style=for-the-badge&logo=docker)
 
