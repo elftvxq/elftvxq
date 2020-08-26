@@ -23,7 +23,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
-![Webpack](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=webpack)
+![Webpack](https://img.shields.io/badge/-webpack-00a8e8?style=for-the-badge&logo=webpack)
 
 ## Some of my Github Stats
 [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=elftvxq&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/elftvxq/github-readme-stats)
