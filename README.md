@@ -16,13 +16,14 @@
 Apart from coding, I also maintain a blog - you can find my articles on my website at [真露島](https://elftvxq.github.io/).
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
+![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
+![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
+![Webpack](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=webpack)
 
 ## Some of my Github Stats
 [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=elftvxq&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/elftvxq/github-readme-stats)
