@@ -29,7 +29,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![Webpack](https://img.shields.io/badge/-Webpack-critical?style=for-the-badge&logo=webpack)
 ![Docker](https://img.shields.io/badge/-Docker-9cf?style=for-the-badge&logo=docker)
 ![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Node.js] (https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 ## Some of my Github Stats
