@@ -12,19 +12,25 @@
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [真露島](https://elftvxq.github.io/).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [Emma's 613 小行星](https://emmaswy.hashnode.dev).
 
 ## 🔧 Technologies & Tools
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
-![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-blue?style=for-the-badge&logo=redux)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-critical?style=for-the-badge&logo=webpack)
 ![Docker](https://img.shields.io/badge/-Docker-9cf?style=for-the-badge&logo=docker)
-
+![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Node.js] (https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 ## Some of my Github Stats
 [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=elftvxq&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/elftvxq/github-readme-stats)
